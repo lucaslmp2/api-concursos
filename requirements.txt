@@ -1,4 +1,4 @@
-fastapi
-uvicorn
+flask
+vercel-python
 beautifulsoup4
 requests
